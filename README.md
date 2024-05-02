@@ -2,7 +2,7 @@
 
 ## Soal❗❗
 
-1. Melakukan dekomposisi citra  
+1. Melakukan dekomposisi citra   
    ![This is an alt text.](Assets/_dekomposisi.png)
    menampilkan hasil dekomposisi citra pada level 3, 4, 5 dan seterusnya secara dinamis
    ![This is an alt text.](Assets/__dekomposisi.png) 
